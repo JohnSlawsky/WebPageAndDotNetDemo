@@ -15,18 +15,24 @@ namespace WebPageAndDotNetDemo.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Demo of multiple web page formats and methods.";
 
             return View();
         }
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "John Slawsky";
 
             return View();
         }
 
+        public IActionResult Doggy()
+        {
+            ViewData["Message"] = "A special page for the dog.";
+
+            return View();
+        }
         public IActionResult Error()
         {
             return View();

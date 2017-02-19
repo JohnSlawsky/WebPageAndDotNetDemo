@@ -1,0 +1,1029 @@
+ Volume in drive C is OS
+ Volume Serial Number is 96EB-6A3E
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo
+
+02/18/2017  07:05 PM    <DIR>          .
+02/18/2017  07:05 PM    <DIR>          ..
+02/18/2017  05:27 PM             2,581 .gitattributes
+02/18/2017  05:27 PM             3,997 .gitignore
+02/18/2017  07:05 PM                 0 filelist.txt
+02/18/2017  05:27 PM               100 global.json
+02/18/2017  05:27 PM    <DIR>          src
+02/18/2017  05:27 PM             1,534 WebPageAndDotNetDemo.sln
+               5 File(s)          8,212 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git
+
+02/18/2017  05:27 PM               691 config
+02/18/2017  05:27 PM                73 description
+02/18/2017  05:27 PM                23 HEAD
+02/18/2017  05:27 PM    <DIR>          hooks
+02/18/2017  05:28 PM             8,168 index
+02/18/2017  05:27 PM    <DIR>          info
+02/18/2017  05:27 PM    <DIR>          logs
+02/18/2017  05:28 PM               150 ms-persist.xml
+02/18/2017  05:28 PM    <DIR>          objects
+02/18/2017  05:27 PM    <DIR>          refs
+               5 File(s)          9,105 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\hooks
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+02/18/2017  05:27 PM               177 README.sample
+               1 File(s)            177 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\info
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+02/18/2017  05:27 PM               113 exclude
+               1 File(s)            113 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\logs
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+02/18/2017  05:28 PM               352 HEAD
+02/18/2017  05:27 PM    <DIR>          refs
+               1 File(s)            352 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\logs\refs
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+02/18/2017  05:27 PM    <DIR>          heads
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\logs\refs\heads
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+02/18/2017  05:28 PM               352 master
+               1 File(s)            352 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM    <DIR>          01
+02/18/2017  05:28 PM    <DIR>          04
+02/18/2017  05:28 PM    <DIR>          06
+02/18/2017  05:28 PM    <DIR>          09
+02/18/2017  05:28 PM    <DIR>          0c
+02/18/2017  05:27 PM    <DIR>          0d
+02/18/2017  05:28 PM    <DIR>          10
+02/18/2017  05:28 PM    <DIR>          14
+02/18/2017  05:28 PM    <DIR>          15
+02/18/2017  05:28 PM    <DIR>          18
+02/18/2017  05:28 PM    <DIR>          1a
+02/18/2017  05:28 PM    <DIR>          1b
+02/18/2017  05:27 PM    <DIR>          1c
+02/18/2017  05:28 PM    <DIR>          1e
+02/18/2017  05:27 PM    <DIR>          1f
+02/18/2017  05:28 PM    <DIR>          21
+02/18/2017  05:28 PM    <DIR>          28
+02/18/2017  05:28 PM    <DIR>          2c
+02/18/2017  05:28 PM    <DIR>          2e
+02/18/2017  05:28 PM    <DIR>          38
+02/18/2017  05:28 PM    <DIR>          3a
+02/18/2017  05:28 PM    <DIR>          3b
+02/18/2017  05:28 PM    <DIR>          3c
+02/18/2017  05:28 PM    <DIR>          41
+02/18/2017  05:28 PM    <DIR>          42
+02/18/2017  05:28 PM    <DIR>          48
+02/18/2017  05:28 PM    <DIR>          49
+02/18/2017  05:28 PM    <DIR>          4c
+02/18/2017  05:28 PM    <DIR>          4e
+02/18/2017  05:28 PM    <DIR>          50
+02/18/2017  05:28 PM    <DIR>          53
+02/18/2017  05:28 PM    <DIR>          58
+02/18/2017  05:28 PM    <DIR>          5e
+02/18/2017  05:28 PM    <DIR>          5f
+02/18/2017  05:28 PM    <DIR>          61
+02/18/2017  05:28 PM    <DIR>          64
+02/18/2017  05:28 PM    <DIR>          68
+02/18/2017  05:28 PM    <DIR>          69
+02/18/2017  05:28 PM    <DIR>          6f
+02/18/2017  05:28 PM    <DIR>          74
+02/18/2017  05:28 PM    <DIR>          7a
+02/18/2017  05:28 PM    <DIR>          82
+02/18/2017  05:28 PM    <DIR>          86
+02/18/2017  05:28 PM    <DIR>          92
+02/18/2017  05:28 PM    <DIR>          94
+02/18/2017  05:28 PM    <DIR>          96
+02/18/2017  05:28 PM    <DIR>          9b
+02/18/2017  05:28 PM    <DIR>          9d
+02/18/2017  05:28 PM    <DIR>          9e
+02/18/2017  05:28 PM    <DIR>          a1
+02/18/2017  05:28 PM    <DIR>          a2
+02/18/2017  05:28 PM    <DIR>          a3
+02/18/2017  05:28 PM    <DIR>          a5
+02/18/2017  05:28 PM    <DIR>          a7
+02/18/2017  05:28 PM    <DIR>          a8
+02/18/2017  05:28 PM    <DIR>          b6
+02/18/2017  05:28 PM    <DIR>          b9
+02/18/2017  05:28 PM    <DIR>          bc
+02/18/2017  05:28 PM    <DIR>          be
+02/18/2017  05:28 PM    <DIR>          bf
+02/18/2017  05:28 PM    <DIR>          c0
+02/18/2017  05:28 PM    <DIR>          ca
+02/18/2017  05:28 PM    <DIR>          cc
+02/18/2017  05:28 PM    <DIR>          cf
+02/18/2017  05:28 PM    <DIR>          d4
+02/18/2017  05:28 PM    <DIR>          d6
+02/18/2017  05:28 PM    <DIR>          dc
+02/18/2017  05:28 PM    <DIR>          df
+02/18/2017  05:28 PM    <DIR>          e3
+02/18/2017  05:28 PM    <DIR>          e5
+02/18/2017  05:28 PM    <DIR>          e6
+02/18/2017  05:28 PM    <DIR>          e7
+02/18/2017  05:28 PM    <DIR>          eb
+02/18/2017  05:28 PM    <DIR>          f4
+02/18/2017  05:27 PM    <DIR>          info
+02/18/2017  05:27 PM    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\01
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM            18,193 fbbcbaa9fd750c456258ebc4a305ceb94adafd
+               1 File(s)         18,193 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\04
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               350 754ba7135f9e2081e6c0e5676f1416af7f2205
+               1 File(s)            350 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\06
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM            34,942 ac2631505fe2b7245b7b7bec2d759b4d51c624
+               1 File(s)         34,942 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\09
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM            94,872 f8cda78a2082983b574be3abab705f8f169ab8
+               1 File(s)         94,872 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\0c
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               161 285103b7015eb78a13851884ecd22ad8b52a5c
+               1 File(s)            161 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\0d
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+02/18/2017  05:27 PM                89 76fe4328089e5b63a9c4190badacfc35ef2624
+               1 File(s)             89 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\10
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM                62 03573098a9370cfd57cade1e8a73f6070ac246
+02/18/2017  05:28 PM             1,006 bb00c4dfec4c562e048b3dfd7106ccbb04dfbc
+               2 File(s)          1,068 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\14
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               187 032aabd85b43a058cfc7025dd4fa9dd325ea97
+02/18/2017  05:28 PM            24,964 13fc609ab6f21774de0cb7e01360095584f65b
+               2 File(s)         25,151 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\15
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               262 c12c6d1269352677034762d57b0632d903d3b6
+               1 File(s)            262 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\18
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               505 ca7dd8a2e753bffb76d1fe9b5a4c76f543c166
+               1 File(s)            505 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\1a
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM             2,176 0f5b51a58462e07ac53d41a48a2033468608c8
+02/18/2017  05:28 PM             4,712 b32b60b8992306ee758e39451d4db2b8bdfda3
+               2 File(s)          6,888 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\1b
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM             5,176 0de12496131b2f845ea06a3b5adc0f8f050c99
+               1 File(s)          5,176 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\1c
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+02/18/2017  05:27 PM             1,863 9a181a44b4f9a105f0dc71a40ad0284ab6a7c4
+               1 File(s)          1,863 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\1e
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM            93,823 0ba99740311a0dfe882f0fde91f7210602f5e9
+               1 File(s)         93,823 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\1f
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+02/18/2017  05:27 PM               751 f0c423042b46cb1d617b81efb715defbe8054d
+               1 File(s)            751 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\21
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM             8,736 e19101e1a57da0dc43183b634db4b354560f5b
+               1 File(s)          8,736 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\28
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               301 0c10d295a0bbcdaaf35e632c94742becc5d618
+02/18/2017  05:28 PM                89 f8980ff8deee5a983700599a89e56b6c128e2c
+               2 File(s)            390 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\2c
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM             1,145 6b65afc02ca83e758a65a2c538b3fddca66a00
+               1 File(s)          1,145 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\2e
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM                64 140055aff216cf4a0567dcd5a41a3a2ef06afc
+               1 File(s)             64 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\38
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM             5,320 b3d7cd1f2aacefad23632f0839eb7d14408556
+               1 File(s)          5,320 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\3a
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM                80 c7e91984a0d0912a09a9564a3ba1d94b2f11fe
+               1 File(s)             80 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\3b
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               215 eb45f52f4e071190b762b2e5b3508c0c63003a
+               1 File(s)            215 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\3c
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM             1,446 d243ddaab41dc9decdf23c900d64742844e883
+               1 File(s)          1,446 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\41
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               295 9488b5bcfd09e9d209f5a99ab4a969216908de
+               1 File(s)            295 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\42
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM            28,322 c79d6e459ece1c606314879146768dad3d2656
+               1 File(s)         28,322 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\48
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               172 67e984b58917deeab4f8b95a12e2ace3b97345
+02/18/2017  05:28 PM               156 a10d18dc19c91cf2513b2f885a621ffe7c131d
+               2 File(s)            328 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\49
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM                63 e2b45d628b7ba0e9bd28cca0de1267e0994f2b
+               1 File(s)             63 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\4c
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM            25,197 f729e4342a51d8b300e8d43f2f78b0a6faf403
+               1 File(s)         25,197 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\4e
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM            13,877 979bcf67fd7d7f74f29d63d7c5d82315471966
+               1 File(s)         13,877 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\50
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               251 4665c0ae10f3ca3835918650a51bd1d6dd0f58
+02/18/2017  05:28 PM               140 476d1fbd4c5b59bc24067454301e4226e2561b
+               2 File(s)            391 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\53
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               935 12a4c864d220d496ae0b6fd11834a08396fb89
+               1 File(s)            935 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\58
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               100 4f3ed53e0af16450784be451fbe608bef3294d
+02/18/2017  05:28 PM                81 9cdf26ad24bbc4da177541682315d392c4e0b0
+               2 File(s)            181 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\5e
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               929 6c57136c9760b1c67248dba8d1cfc615ea27fe
+               1 File(s)            929 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\5f
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM            22,116 49bb37443c13fec81f2089d0d5559bc5a407e4
+02/18/2017  05:28 PM               118 c630d74c0c3a5472303dab5a65f58ad487541f
+               2 File(s)         22,234 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\61
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               135 0fd2de05fa8b0bf056d9dd8e9d0cef574ede5f
+               1 File(s)            135 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\64
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM                49 06626abfef91341218ad1aba84a4f5b4b4a76c
+02/18/2017  05:28 PM             7,818 3837b90a5ba62513f45e2f9f58a88daf0383db
+02/18/2017  05:28 PM            18,055 539b54c3751a6d9adb44c8e3a45ba5a73b77f0
+               3 File(s)         25,922 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\68
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               123 a3b9e24387c31a2c13979f4cd3a6aadeda612d
+               1 File(s)            123 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\69
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               139 159b66670ae76bd47a0a7501ae65a739840869
+               1 File(s)            139 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\6f
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               138 798ce7163936706150ae811cdaa0f3a3267a78
+               1 File(s)            138 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\74
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               719 decb96988561ee7f561ea31ae62e2edb5a1261
+               1 File(s)            719 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\7a
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               204 28a1bd37350a09bdd1c35718c35dd843fccf3c
+               1 File(s)            204 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\82
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM                50 ecce7b4a781f991416f32858fbc7f42f03d614
+               1 File(s)             50 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\86
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               557 aea98eeed51cdaf200ce54590cb90c304f7d25
+               1 File(s)            557 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\92
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               121 8d3ed0e4940bb77bbe6e47553c281d7f597b6a
+               1 File(s)            121 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\94
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               561 d8d8ce05a935b3d62daf20b44e283c404bdd8c
+02/18/2017  05:28 PM            33,301 fb5490a2ed10b2c69a4a567a4fd2e4f706d841
+               2 File(s)         33,862 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\96
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM             3,675 79c604d00dfe4cf14c7c35da32ec5d55bebce2
+               1 File(s)          3,675 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\9b
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM             4,379 e2c2503c1adb31a8e0c531bf2b202f524d39c6
+               1 File(s)          4,379 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\9d
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               102 09ab54cb78ae1486b6b56d93ba770522bd96a3
+               1 File(s)            102 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\9e
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM            23,210 612858f802245ddcbf59788a0db942224bab35
+               1 File(s)         23,210 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\a1
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               416 57770cb19ca2422a26f895c91d788241f1b0f0
+               1 File(s)            416 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\a2
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               299 b98f3fe5672b9350c473a2243cf2612475ac5e
+               1 File(s)            299 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\a3
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM            10,869 a799985c43bc7309d701b2cad129023377dc71
+               1 File(s)         10,869 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\a5
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM                42 f10045db97461e9565c3273fdb9252687aa4f1
+               1 File(s)             42 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\a7
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               118 dacf6099f9117075db410169f9a036b11f2ad4
+               1 File(s)            118 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\a8
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               152 fd706fbbcefae9877a3775a6defccd91f3674d
+               1 File(s)            152 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\b6
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM             5,547 3c3ca12c99d8f32c053c7ab27f7fb7fb3d10e5
+02/18/2017  05:28 PM               157 fe9d6264e46e000142c31bf18f205381f32a1d
+               2 File(s)          5,704 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\b9
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM            20,060 3a4953fff68df523aa7656497ee339d6026d64
+               1 File(s)         20,060 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\bc
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               109 2b73548559cd2ba370e25b4646f96f28fa3ad9
+02/18/2017  05:27 PM               150 bd7c362bde21093fdc66c67ffe280266a32ef1
+               2 File(s)            259 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\be
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM             2,216 9a38a4cfce80e5889936027710102e3773cf1e
+               1 File(s)          2,216 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\bf
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               201 6aa80602d9303b61e8d5e63c10568e55b6a4d8
+               1 File(s)            201 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\c0
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               310 f9a6532c737ffa18086df01c65818cce3b5117
+               1 File(s)            310 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\ca
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               452 b34a4a61ecbf995c7a77493ceda8c00e8a9d97
+               1 File(s)            452 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\cc
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               503 f48121dc368ec7cb15d1d49e7183640a64cf21
+               1 File(s)            503 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\cf
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               115 b61548220b302b493c1063b352d258e07d45b2
+               1 File(s)            115 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\d4
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               206 38a6be4b4edbde17e1f0ff374093a3e550bbfb
+               1 File(s)            206 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\d6
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               165 672fd2293b949e4540caecba77edf1eb9e8e9b
+               1 File(s)            165 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\dc
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               374 0514fca5eb7a71a0f5abd5554107339f665cb3
+02/18/2017  05:28 PM               666 377cc031064ba146e9af3cb64155522ade5cfa
+02/18/2017  05:28 PM             3,277 95d8e4e4bdf33fd0d151908fbe19b0439be115
+02/18/2017  05:28 PM               153 fb750a424840883522dac14245df453d037109
+               4 File(s)          4,470 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\df
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM            11,926 41fbd403db1eb6b9bffe9b44d5e6ee401e77e4
+               1 File(s)         11,926 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\e3
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               494 7d6cab3a023cfc85ca107c33aae674b9882dfa
+               1 File(s)            494 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\e5
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               404 14139c454a9aa37f7edeab97bab360c4f17c88
+               1 File(s)            404 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\e6
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM            60,327 2d1021412a73cf374012f6832fca5c1e2b2235
+02/18/2017  05:28 PM                15 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+               2 File(s)         60,342 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\e7
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM            11,804 9c065134f2cfcf3e44a59cffcb5f090232f98f
+               1 File(s)         11,804 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\eb
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM             3,500 e57fbf64d3c72a032b9db83898b99151d9d991
+               1 File(s)          3,500 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\f4
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               664 c52d6a4b3e13836fc2b516b962b5365a1d19c8
+               1 File(s)            664 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\info
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\objects\pack
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\refs
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+02/18/2017  05:28 PM    <DIR>          heads
+02/18/2017  05:27 PM    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\refs\heads
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM                41 master
+               1 File(s)             41 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.git\refs\tags
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.vs
+
+02/18/2017  05:34 PM    <DIR>          config
+02/18/2017  05:28 PM               105 restore.dg
+02/18/2017  05:27 PM    <DIR>          WebPageAndDotNetDemo
+               1 File(s)            105 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.vs\config
+
+02/18/2017  05:34 PM    <DIR>          .
+02/18/2017  05:34 PM    <DIR>          ..
+02/18/2017  05:34 PM            86,119 applicationhost.config
+               1 File(s)         86,119 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.vs\WebPageAndDotNetDemo
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+02/18/2017  05:27 PM    <DIR>          v14
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\.vs\WebPageAndDotNetDemo\v14
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+02/18/2017  05:33 PM    <DIR>          WebPageAndDotNetDemo
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo
+
+02/18/2017  05:33 PM    <DIR>          .
+02/18/2017  05:33 PM    <DIR>          ..
+02/18/2017  05:27 PM                36 .bowerrc
+02/18/2017  05:28 PM               273 appsettings.json
+02/18/2017  05:33 PM    <DIR>          bin
+02/18/2017  05:27 PM               207 bower.json
+02/18/2017  05:27 PM               627 bundleconfig.json
+02/18/2017  05:58 PM    <DIR>          Controllers
+02/18/2017  05:33 PM    <DIR>          obj
+02/18/2017  05:27 PM               583 Program.cs
+02/18/2017  05:27 PM             1,909 project.json
+02/18/2017  05:28 PM           444,939 project.lock.json
+02/18/2017  05:27 PM             6,850 Project_Readme.html
+02/18/2017  05:27 PM    <DIR>          Properties
+02/18/2017  05:28 PM    <DIR>          Service References
+02/18/2017  05:27 PM             2,512 Startup.cs
+02/18/2017  05:27 PM    <DIR>          Views
+02/18/2017  05:27 PM               565 web.config
+02/18/2017  05:28 PM             1,529 WebPageAndDotNetDemo.xproj
+02/18/2017  05:28 PM               279 WebPageAndDotNetDemo.xproj.user
+02/18/2017  05:27 PM    <DIR>          wwwroot
+              12 File(s)        460,309 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\bin
+
+02/18/2017  05:33 PM    <DIR>          .
+02/18/2017  05:33 PM    <DIR>          ..
+02/18/2017  05:33 PM    <DIR>          Debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\bin\Debug
+
+02/18/2017  05:33 PM    <DIR>          .
+02/18/2017  05:33 PM    <DIR>          ..
+02/18/2017  05:34 PM    <DIR>          netcoreapp1.0
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\bin\Debug\netcoreapp1.0
+
+02/18/2017  05:34 PM    <DIR>          .
+02/18/2017  05:34 PM    <DIR>          ..
+02/18/2017  05:58 PM           173,612 WebPageAndDotNetDemo.deps.json
+02/18/2017  05:58 PM           256,512 WebPageAndDotNetDemo.dll
+02/18/2017  05:58 PM            17,920 WebPageAndDotNetDemo.pdb
+02/18/2017  05:58 PM               123 WebPageAndDotNetDemo.runtimeconfig.dev.json
+02/18/2017  05:58 PM               192 WebPageAndDotNetDemo.runtimeconfig.json
+               5 File(s)        448,359 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\Controllers
+
+02/18/2017  05:58 PM    <DIR>          .
+02/18/2017  05:58 PM    <DIR>          ..
+02/18/2017  05:58 PM               750 HomeController.cs
+               1 File(s)            750 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\obj
+
+02/18/2017  05:33 PM    <DIR>          .
+02/18/2017  05:33 PM    <DIR>          ..
+02/18/2017  05:33 PM    <DIR>          Debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\obj\Debug
+
+02/18/2017  05:33 PM    <DIR>          .
+02/18/2017  05:33 PM    <DIR>          ..
+02/18/2017  05:34 PM    <DIR>          netcoreapp1.0
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\obj\Debug\netcoreapp1.0
+
+02/18/2017  05:34 PM    <DIR>          .
+02/18/2017  05:34 PM    <DIR>          ..
+02/18/2017  06:32 PM             1,134 .IncrementalCache
+02/18/2017  06:32 PM                76 .SDKVersion
+02/18/2017  05:58 PM            25,714 dotnet-compile-csc.rsp
+02/18/2017  05:58 PM               376 dotnet-compile.assemblyinfo.cs
+02/18/2017  05:58 PM            27,184 dotnet-compile.rsp
+02/18/2017  05:58 PM           246,927 WebPageAndDotNetDemodotnet-compile.deps.json
+               6 File(s)        301,411 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\Properties
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+02/18/2017  05:27 PM               651 launchSettings.json
+               1 File(s)            651 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\Service References
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM    <DIR>          Application Insights
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\Service References\Application Insights
+
+02/18/2017  05:28 PM    <DIR>          .
+02/18/2017  05:28 PM    <DIR>          ..
+02/18/2017  05:28 PM               224 ConnectedService.json
+               1 File(s)            224 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\Views
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+02/18/2017  06:30 PM    <DIR>          Home
+02/18/2017  06:05 PM    <DIR>          Shared
+02/18/2017  05:27 PM               185 _ViewImports.cshtml
+02/18/2017  05:27 PM                35 _ViewStart.cshtml
+               2 File(s)            220 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\Views\Home
+
+02/18/2017  06:30 PM    <DIR>          .
+02/18/2017  06:30 PM    <DIR>          ..
+02/18/2017  05:51 PM               206 About.cshtml
+02/18/2017  06:30 PM               746 Contact.cshtml
+02/18/2017  05:27 PM             5,793 Index.cshtml
+               3 File(s)          6,745 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\Views\Shared
+
+02/18/2017  06:05 PM    <DIR>          .
+02/18/2017  06:05 PM    <DIR>          ..
+02/18/2017  05:27 PM               724 Error.cshtml
+02/18/2017  06:05 PM             3,251 _Layout.cshtml
+               2 File(s)          3,975 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\wwwroot
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+02/18/2017  05:27 PM    <DIR>          css
+07/29/2015  02:26 PM            32,038 favicon.ico
+02/18/2017  05:27 PM    <DIR>          images
+02/18/2017  05:27 PM    <DIR>          js
+02/18/2017  05:27 PM    <DIR>          lib
+06/16/2016  08:57 AM               349 _references.js
+               2 File(s)         32,387 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\wwwroot\css
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+09/01/2016  10:43 AM               745 site.css
+06/06/2016  12:34 PM               300 site.min.css
+               2 File(s)          1,045 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\wwwroot\images
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+04/25/2016  12:57 PM             9,679 banner1.svg
+04/25/2016  12:57 PM             8,394 banner2.svg
+04/25/2016  12:57 PM            10,872 banner3.svg
+04/25/2016  12:57 PM            12,291 banner4.svg
+               4 File(s)         41,236 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\wwwroot\js
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+10/22/2015  08:21 AM                35 site.js
+06/06/2016  12:34 PM                 0 site.min.js
+               2 File(s)             35 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\wwwroot\lib
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+02/18/2017  05:27 PM    <DIR>          bootstrap
+02/18/2017  05:27 PM    <DIR>          jquery
+02/18/2017  05:27 PM    <DIR>          jquery-validation
+02/18/2017  05:27 PM    <DIR>          jquery-validation-unobtrusive
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\wwwroot\lib\bootstrap
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+04/25/2016  12:57 PM               961 .bower.json
+02/18/2017  05:27 PM    <DIR>          dist
+03/21/2016  08:29 AM             1,084 LICENSE
+               2 File(s)          2,045 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\wwwroot\lib\bootstrap\dist
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+02/18/2017  05:27 PM    <DIR>          css
+02/18/2017  05:27 PM    <DIR>          fonts
+02/18/2017  05:27 PM    <DIR>          js
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\wwwroot\lib\bootstrap\dist\css
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+04/25/2016  12:57 PM            26,719 bootstrap-theme.css
+04/25/2016  12:57 PM            47,706 bootstrap-theme.css.map
+04/25/2016  12:57 PM            23,414 bootstrap-theme.min.css
+04/25/2016  12:57 PM             5,532 bootstrap-theme.min.css.map
+04/25/2016  12:57 PM           152,842 bootstrap.css
+04/25/2016  12:57 PM           389,227 bootstrap.css.map
+04/25/2016  12:57 PM           121,265 bootstrap.min.css
+04/25/2016  12:57 PM            54,416 bootstrap.min.css.map
+               8 File(s)        821,121 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\wwwroot\lib\bootstrap\dist\fonts
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+03/21/2016  08:29 AM            20,127 glyphicons-halflings-regular.eot
+03/21/2016  08:29 AM           108,738 glyphicons-halflings-regular.svg
+03/21/2016  08:29 AM            45,404 glyphicons-halflings-regular.ttf
+03/21/2016  08:29 AM            23,424 glyphicons-halflings-regular.woff
+03/21/2016  08:29 AM            18,028 glyphicons-halflings-regular.woff2
+               5 File(s)        215,721 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\wwwroot\lib\bootstrap\dist\js
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+04/25/2016  12:57 PM            71,317 bootstrap.js
+04/25/2016  12:57 PM            36,874 bootstrap.min.js
+03/21/2016  08:29 AM               484 npm.js
+               3 File(s)        108,675 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\wwwroot\lib\jquery
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+04/25/2016  12:57 PM               547 .bower.json
+02/18/2017  05:27 PM    <DIR>          dist
+04/25/2016  12:57 PM             1,642 LICENSE.txt
+               2 File(s)          2,189 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\wwwroot\lib\jquery\dist
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+04/25/2016  12:57 PM           268,219 jquery.js
+04/25/2016  12:57 PM            85,593 jquery.min.js
+04/25/2016  12:57 PM           129,544 jquery.min.map
+               3 File(s)        483,356 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\wwwroot\lib\jquery-validation
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+03/31/2016  12:19 PM               925 .bower.json
+02/18/2017  05:27 PM    <DIR>          dist
+12/09/2015  11:10 AM             1,117 LICENSE.md
+               2 File(s)          2,042 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\wwwroot\lib\jquery-validation\dist
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+12/09/2015  11:10 AM            37,853 additional-methods.js
+12/09/2015  11:10 AM            17,213 additional-methods.min.js
+12/09/2015  11:10 AM            44,027 jquery.validate.js
+12/09/2015  11:10 AM            21,093 jquery.validate.min.js
+               4 File(s)        120,186 bytes
+
+ Directory of C:\Users\john.slawsky\Source\WebPageAndDotNetDemo\src\WebPageAndDotNetDemo\wwwroot\lib\jquery-validation-unobtrusive
+
+02/18/2017  05:27 PM    <DIR>          .
+02/18/2017  05:27 PM    <DIR>          ..
+04/25/2016  12:57 PM             1,143 .bower.json
+04/08/2016  09:28 AM            19,033 jquery.validate.unobtrusive.js
+04/08/2016  09:33 AM             5,411 jquery.validate.unobtrusive.min.js
+               3 File(s)         25,587 bytes
+
+     Total Files Listed:
+             183 File(s)      3,806,114 bytes
+             356 Dir(s)  788,945,162,240 bytes free
